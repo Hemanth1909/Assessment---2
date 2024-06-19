@@ -9,8 +9,12 @@ Features:
 5. Returning the books
 
 For executing the code download the repository and open in any of the IDE
-Navigate to the directory venhan - 2 by using the following command in the terminal
+Navigate to the directory venhan - 2 by using the following command in the terminal:
+
+
 cd venhan - 2
 
 Run the main.py file using the following command:
+
+
 python main.py
